@@ -1,4 +1,4 @@
-![Image alt](https://github.com/NubloEg/NubloEg/main/image.png)
+![Image alt](https://github.com/NubloEg/NubloEg/blob/main/header.png)
 
 ### Hi there 👋
 
