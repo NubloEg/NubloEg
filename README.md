@@ -4,12 +4,12 @@
 </div>
 <div id="header" align="center">
   <h1>Hi there 👋, I'm Egor</h1>
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
-  <h2>I'm а manual QA Engineer</h2>
+  <img src="https://cdn.dribbble.com/users/14374/screenshots/3153764/junior.gif" width="250" style="border-radius: 50% 20% / 10% 40%;"/>
+  <h2>I'm а Frontend Developer</h2>
 </div>
 :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="chrome" alt="chrome" width="40" height="40"/>&nbsp;
+  <img src="https://icons8.com/icon/uJM6fQYqDaZK/typescript" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EEEKosta/icon/blob/main/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EEEKosta/icon/blob/main/charles.png" title="charles" alt="charles" width="43" height="43"/>&nbsp;
   <img src="https://github.com/EEEKosta/icon/blob/main/cypress.svg" title="cypress" alt="cypress" width="40" height="40"/>&nbsp;
