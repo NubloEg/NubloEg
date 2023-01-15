@@ -5,7 +5,7 @@
 <div id="header" align="center">
   <h1>Hi there 👋, I'm Egor</h1>
   <img src="https://cdn.dribbble.com/users/14374/screenshots/3153764/junior.gif" width="250" style="border-radius: 50% 20% / 10% 40%;"/>
-  <h2>I'm а Frontend Developer</h2>
+  <h2>I'm Frontend Developer</h2>
 </div>
 :hammer_and_wrench: Languages and Tools :
 <div>
