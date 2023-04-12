@@ -24,3 +24,5 @@
  
 </div>
 
+<h2>Мой сайт-визитка <a href='https://nubloeg.github.io/Portfolio/' target="_tablet">ссылка</a></h2>
+
