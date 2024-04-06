@@ -21,7 +21,7 @@
   <img src="./icons/icons8-c++-48.png" title="c++" alt="c++" width="48" height="48"/>&nbsp;
   <img src="./icons/icons8-git-48.png" title="git" alt="git" width="48" height="48"/>&nbsp;
   <img src="./icons/icons8-github-48.png" title="github" alt="github" width="48" height="48"/>&nbsp;
- Formik,Styleguidist,StoryBook,
+ Formik,Styleguidist,StoryBook,Bootstrap,ChakraUI,Ant Design,SASS,
 </div>
 
 <h2>Мой сайт-визитка <a href='https://nubloeg.github.io/Portfolio/' target="_tablet">ссылка</a></h2>
