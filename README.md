@@ -25,8 +25,8 @@
   <img src="https://snapshots.chromatic.com/snapshots/5cff7295207cf60020166d12/capture.png" title="storyBook" alt="storyBook" width="48" height="48"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" title="bootstrap" alt="bootstrap" width="48" height="48"/>&nbsp;
   <img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2021/10/eyecatch_chakra_ui_1200x630.png" title="chakraUI" alt="chakraUI" width="48" height="48"/>&nbsp;
-  <img src="https://bestwebsite.gallery/uploads/imager/ogimages/82924/card_200115_134705_a252b89eb5a1bd0a4b530819a956e05e.png" title="date-fns" alt="date-fns" width="48" height="48"/>&nbsp;
-  <img src="https://luxe-host.ru/wp-content/uploads/6/d/8/6d81a322eb9613d05c287644be923eea.jpeg" title="sass" alt="sass" width="48" height="48"/>&nbsp;
+  <img src="https://bestwebsite.gallery/uploads/imager/ogimages/82924/card_200115_134705_a252b89eb5a1bd0a4b530819a956e05e.png" style={{objectFit:cover}} title="date-fns" alt="date-fns" width="48" height="48"/>&nbsp;
+  <img src="https://luxe-host.ru/wp-content/uploads/f/a/4/fa43e33f6af0ef4e3f7c5fc97ce19742.png" title="sass" alt="sass" width="48" height="48"/>&nbsp;
 </div>
 
 <h2>Мой сайт-визитка <a href='https://nubloeg.github.io/Portfolio/' target="_tablet">ссылка</a></h2>
