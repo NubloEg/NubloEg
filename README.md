@@ -21,7 +21,8 @@
   <img src="./icons/icons8-c++-48.png" title="c++" alt="c++" width="48" height="48"/>&nbsp;
   <img src="./icons/icons8-git-48.png" title="git" alt="git" width="48" height="48"/>&nbsp;
   <img src="./icons/icons8-github-48.png" title="github" alt="github" width="48" height="48"/>&nbsp;
- Formik,Styleguidist,StoryBook,Bootstrap,ChakraUI,Ant Design,SASS,date-fns
+  <img src="https://cdn.zapier.com/storage/developer_cli/20e6b8d4515c7e1ed6f1db25a2a3d3f2_2.png" title="formik" alt="github" width="48" height="48"/>&nbsp;
+ ,Styleguidist,StoryBook,Bootstrap,ChakraUI,Ant Design,SASS,date-fns
 </div>
 
 <h2>Мой сайт-визитка <a href='https://nubloeg.github.io/Portfolio/' target="_tablet">ссылка</a></h2>
